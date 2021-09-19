@@ -71,8 +71,10 @@ MultiPurposeMatchMaker is a full featured Match Making App. You have to register
 <br>
 <h2>Author</h2>
 <blockquote>
-  Rohit Raj<br>
-  Email: rohit3374@gmail.com
+  Rohit Raj    , EMAIL - rohit3374@gmail.com<br>
+  Snehil       , EMAIL - secvm@protonmail.ch<br>
+  Shashank Kumar Singh<br>
+  Yash Anand<br>
 </blockquote>
 
 <div align="center">
