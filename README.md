@@ -32,10 +32,7 @@ MultiPurposeMatchMaker is a full featured Match Making App. You have to register
 
 <h2>Installing</h2>
 <pre>open terminal and type</pre>
-<code>git clone https://github.com/r0hitraj/MultiPurposeMatchMaker.git</code><br><br>
-
-<h4>or simply download using the url below</h4>
-<code>https://github.com/r0hitraj/MultiPurposeMatchMaker.git</code><br>
+<code>git clone https://github.com/snehilk1312/MultiPurposeMatchMaker.git</code><br><br>
 
 <h2>To migrate the database open terminal in project directory and type</h2>
 <code>python manage.py makemigrations</code><br>
